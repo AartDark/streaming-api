@@ -1,0 +1,14 @@
+GET /api
+POST /api/auth/registro
+POST /api/auth/login
+GET /api/contenidos
+GET /api/contenidos/{id}
+POST /api/contenidos
+PUT /api/contenidos/{id}
+DELETE /api/contenidos/{id}
+GET /api/favoritos
+POST /api/favoritos
+DELETE /api/favoritos/{id}
+GET /api/progreso
+POST /api/progreso
+DELETE /api/progreso/{id}

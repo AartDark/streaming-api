@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Horizonte Final",
+    "type": "pelicula",
+    "genre": "Ciencia ficción",
+    "year": 2025,
+    "duration_minutes": 118,
+    "description": "Una tripulación intenta regresar a la Tierra después de una misión fallida."
+  },
+  {
+    "id": 2,
+    "title": "Código Oscuro",
+    "type": "serie",
+    "genre": "Suspenso",
+    "year": 2024,
+    "duration_minutes": 48,
+    "description": "Un analista descubre una red digital que conecta varios delitos sin resolver."
+  },
+  {
+    "id": 3,
+    "title": "Ruta 77",
+    "type": "pelicula",
+    "genre": "Acción",
+    "year": 2023,
+    "duration_minutes": 104,
+    "description": "Dos hermanos cruzan el país mientras son perseguidos por una organización criminal."
+  },
+  {
+    "id": 4,
+    "title": "Distrito Cero",
+    "type": "serie",
+    "genre": "Drama",
+    "year": 2025,
+    "duration_minutes": 52,
+    "description": "Historias de habitantes de una ciudad que cambia después de una crisis tecnológica."
+  },
+  {
+    "id": 5,
+    "title": "Última Señal",
+    "type": "pelicula",
+    "genre": "Terror",
+    "year": 2022,
+    "duration_minutes": 96,
+    "description": "Una emisora abandonada comienza a transmitir mensajes dirigidos a un grupo de estudiantes."
+  }
+]
